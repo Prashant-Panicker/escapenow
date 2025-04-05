@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648582469021",
+    "project_id": "escapetrialapp",
+    "storage_bucket": "escapetrialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648582469021:android:a19a9a7c40261c5ce80b74",
+        "android_client_info": {
+          "package_name": "com.example.escapenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBrqR_ELbcCTxEgKtP-NCwQXGMwAJJlt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
